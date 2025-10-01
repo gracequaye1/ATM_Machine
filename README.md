@@ -1,7 +1,7 @@
 # ATM Machine
 
-## Authors
-- [Naomi](https://github.com/naomikortey75)
+## Author
+
 - [Grace](https://github.com/gracequaye1)
 
 ## Project Overview
@@ -30,7 +30,7 @@ If you find this project interesting and want to add new features, improve exist
 3. Make your changes and commit them with clear, concise messages.
 4. Push your branch and create a pull request for review.
 
-You can contact us on [Naomi](https://github.com/naomikortey75) or [Grace](www.linkedin.com/in/grace-okailey-quaye-286b52287)
+You can contact me [Grace](www.linkedin.com/in/grace-okailey-quaye-286b52287)
 
 ## Objectives:
 
